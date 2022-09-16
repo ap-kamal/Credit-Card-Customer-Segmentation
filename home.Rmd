@@ -1,9 +1,6 @@
 ---
 title: "Credit Card Customer Segmentation"
-author: "Kamalnath Sathyamurthy"
-date: "9/16/2022"
 output: html_document
-runtime: shiny
 ---
 
 ## Introduction
